@@ -2,11 +2,10 @@
 
 # Hey, I'm AKSHAY H (`ftdelta7`) 👋
 
-**Electronics Undergraduate • Discord Bot Developer • Licensed Amateur Radio Operator **
+**Electronics Undergraduate • Discord Bot Developer • Licensed Amateur Radio Operator**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ftdelta7-181717?style=for-the-badge&logo=github)](https://github.com/ftdelta7)
-[![Discord](https://img.shields.io/badge/Delta%20Bot-1.6k%2B%20Servers-E50914?style=for-the-badge&logo=discord&logoColor=white)](https://delta-bot.online)
-
+[![Discord](https://img.shields.io/badge/Delta%20Bot-Website-E50914?style=for-the-badge&logo=discord&logoColor=white)](https://delta-bot.online)
 
 </div>
 
@@ -24,7 +23,7 @@
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[discordjs-v2-ui-templates](https://github.com/ftdelta7/discordjs-v2-ui-templates)** | Open-source, copy-pasteable `discord.js` v14 Components V2 UI layouts (`ContainerBuilder`, `SectionBuilder`, media thumbnails, and interactive controls) | `Node.js` • `discord.js v14` |
-| **[Delta Bot](https://delta-bot.online)** | High-performance hybrid music, moderation, and notification bot serving 1,600+ Discord communities | `Node.js` • `NodeLink` • `Components V2` |
+| **[Delta Bot](https://delta-bot.online)** | High-performance hybrid music, moderation, and notification bot for Discord communities | `Node.js` • `NodeLink` • `Components V2` |
 
 ---
 
