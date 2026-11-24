@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 - 🎓 Pursuing **B.Sc. in Electronics** in Thiruvananthapuram, Kerala
 - 🤖 Lead Developer behind **[Delta](https://delta-bot.online)** — a hybrid music & moderation Discord bot built with **Node.js**, **`discord.js` v14**, **Components V2**, and **NodeLink**
-- 📡 Licensed Indian Amateur Radio Operator 
+- 📡 Licensed Indian Amateur Radio Operator
 - 🛠️ Building open-source developer tools, Discord UI templates, and web dashboards
 
 ---
@@ -22,7 +22,8 @@
 ### 🚀 Featured Projects
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[discordjs-v2-ui-templates](https://github.com/ftdelta7/discordjs-v2-ui-templates)** | Open-source, copy-pasteable `discord.js` v14 Components V2 UI layouts (`ContainerBuilder`, `SectionBuilder`, media thumbnails, and interactive controls) | `Node.js` • `discord.js v14` |
+| **[discordjs-v2-ui-templates](https://github.com/ftdelta7/discordjs-v2-ui-templates)** | Open-source collection of 7 copy-pasteable `discord.js` v14 Components V2 UI layouts (`ContainerBuilder`, `SectionBuilder`, media thumbnails, and interactive controls) | `Node.js` • `discord.js v14` |
+| **[discord-v2-payload-validator](https://github.com/ftdelta7/discord-v2-payload-validator)** | Zero-dependency Node.js validator & CLI for checking Discord Components V2 message payloads (`IS_COMPONENTS_V2`, component limits, and structural rules) | `Node.js` • `CLI` • `Components V2` |
 | **[Delta Bot](https://delta-bot.online)** | High-performance hybrid music, moderation, and notification bot for Discord communities | `Node.js` • `NodeLink` • `Components V2` |
 
 ---
